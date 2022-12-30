@@ -1,0 +1,20 @@
+{
+  "files": {
+    "Queue/Queue.h": [
+      {
+        "id": "ed5d878e-e11c-43a5-9aff-524507896e13",
+        "line": 6,
+        "version": 709,
+        "index": 101
+      }
+    ],
+    "main.cpp": [
+      {
+        "id": "99cd0bfd-0115-4c71-b207-6e81e2fb9f25",
+        "line": 199,
+        "version": 4188,
+        "index": 4701
+      }
+    ]
+  }
+}
